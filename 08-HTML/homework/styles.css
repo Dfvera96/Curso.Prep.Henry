@@ -1,0 +1,22 @@
+
+#thirdDiv{
+    height: 600px;
+    width: 500px;
+    background-color: aquamarine;
+    padding: 30px;
+    border: 1px solid;
+    
+}
+#spanId{
+    font-size: 18px;
+    margin: 90px;
+}
+.cotenedor{ 
+    height: 300px;
+    display:flex;
+    justify-content:center;
+    align-items: center;
+}
+.divClass{
+    align-items: center;
+}
